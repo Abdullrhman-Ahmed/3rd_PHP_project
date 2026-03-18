@@ -1,0 +1,1 @@
+Modular PHP & Bootstrap website for "La Bella Trattoria" featuring Home, Menu, and Location pages. Includes reusable head, navbar, and footer components for consistent design, seamless navigation, and easy maintenance.
